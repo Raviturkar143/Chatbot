@@ -1,6 +1,6 @@
 # Chatbot
 
-this created just for fun!!! 😉😉😉
+Simple Chatbot app created for understanding how llm works.  😉😉😉
 
 
 chatbot-demo/
